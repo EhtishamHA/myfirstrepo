@@ -1,2 +1,6 @@
 This is my first commit
 My name is Ehtishm
+
+This is my second commit
+Tuesday Lecture
+
